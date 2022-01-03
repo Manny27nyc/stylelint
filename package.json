@@ -131,7 +131,7 @@
     "imurmurhash": "^0.1.4",
     "known-css-properties": "^0.20.0",
     "lodash": "^4.17.20",
-    "log-symbols": "^4.0.0",
+    "log-symbols": "^5.1.0",
     "mathml-tag-names": "^2.1.3",
     "meow": "^8.0.0",
     "micromatch": "^4.0.2",
