@@ -113,7 +113,7 @@
     "@stylelint/postcss-css-in-js": "^0.37.2",
     "@stylelint/postcss-markdown": "^0.36.2",
     "autoprefixer": "^9.8.6",
-    "balanced-match": "^1.0.0",
+    "balanced-match": "^3.0.1",
     "chalk": "^4.1.0",
     "cosmiconfig": "^7.0.0",
     "debug": "^4.3.1",
@@ -162,7 +162,7 @@
   "devDependencies": {
     "@stylelint/prettier-config": "^2.0.0",
     "@stylelint/remark-preset": "^1.0.0",
-    "@types/balanced-match": "^1.0.1",
+    "@types/balanced-match": "^3.0.2",
     "@types/browserslist": "^4.8.0",
     "@types/debug": "^4.1.5",
     "@types/file-entry-cache": "^5.0.1",
